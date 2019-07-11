@@ -14,14 +14,6 @@ public class TicketInfo {
     private String duration;
     private String price;
 
-
-       /* public TicketInfo(String depart, String arrive, String stops, String duration){
-       this.depart= depart;
-       this.arrive=arrive;
-        this.stops=stops;
-        this.duration=duration;
-        }*/
-
     public String getDepart() { return depart; }
 
     public void setDepart(String depart) {
